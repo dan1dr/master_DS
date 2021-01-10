@@ -1,5 +1,5 @@
 # Master in Data Science
-This is my repository for the Master in Data Science, divided by topics taught at the course — from scratch in Python to some more advanced libraries and tools. 
+This is my repository for the Master in Data Science taught at KSchool, divided by topics lectured in the course — from scratch in Python to some more advanced libraries and tools. 
 
 It will be kept updated along the process, so hope you find it useful! :kissing_smiling_eyes:	
 
