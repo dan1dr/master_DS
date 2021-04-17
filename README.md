@@ -9,6 +9,8 @@ Python | Intro, Numpy, Statistics
 Pandas | Intro, Data Wrangling
 Visualization | Matplot, Seaborn
 Machine Learning | Supervised, Unsupervised
-
+Recommender Systems | 
+Deep Learning | 
+NLP | 
 
 
