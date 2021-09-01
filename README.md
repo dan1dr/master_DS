@@ -11,6 +11,8 @@ Visualization | Matplot, Seaborn
 Machine Learning | Supervised, Unsupervised
 Recommender Systems | 
 Deep Learning | 
-NLP | 
+NLP | Link repo
+GCP | Platform, tools and Analytics
+Challenges | Mini-projects
 
 
